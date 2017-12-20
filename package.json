@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/shway250/Express-About-Me.git"
   },
-  "author": "",
+  "author": "Peter",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/shway250/Express-About-Me/issues"
@@ -18,5 +18,14 @@
   "homepage": "https://github.com/shway250/Express-About-Me#readme",
   "dependencies": {
     "express": "^4.16.2"
-  }
+  },
+  "devDependencies": {},
+  "keywords": [
+    "all",
+    "about",
+    "me",
+    "and",
+    "me",
+    "only"
+  ]
 }
