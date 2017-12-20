@@ -26,4 +26,6 @@ You will then use EJS to render all of that content in your EJS file.
 ## BONUS!!!
 
 1. Style the damn thing
-2. read through and go through the code for the API notes link[ https://wdi_sea.gitbooks.io/notes/content/05-express/express-apis/03apis.html]
+[THE NOTES LINK!!!](https://wdi_sea.gitbooks.io/notes/content/05-express/express-apis/03apis.html)
+
+2. read through and go through the code for the API notes [THE NOTES LINK!!!](https://wdi_sea.gitbooks.io/notes/content/05-express/express-apis/03apis.html)
