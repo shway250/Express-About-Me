@@ -1,0 +1,8 @@
+{
+    "name":"Reilly",
+    "description":"INFJ, chocolate lover, book-worm",
+    "favFoods":["chocolate souffle", "lasagna", "lemon sorbet", "hot dogs", "salsa de chimichurri"],
+    "img":"./images/reilly.png",
+    "backgroundImg":"https://assets.marthastewart.com/styles/wmax-1500/d27/chocolate-souffle-med107742/chocolate-souffle-med107742_horiz.jpg?itok=35Q8sQb3",
+    "stuff":"Should I say something else? Maybe what I like to do? Or whatevs"
+ }
