@@ -1,3 +1,16 @@
+body{
+
+}
+.container{
+    display:block;
+
+    width: 480px;
+    margin: 0 auto;
+}
 img{
-    width: 100px;
+    
+    width: 150px;
+}
+li {
+    list-style: square;
 }

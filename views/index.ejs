@@ -6,9 +6,10 @@
     <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
 <body>
-    
+    <div class="container">
     <h1>Hello, my name is <%=data.name%>.</h1>
     <div>
+        <h2>About me:</h2>
         <p><%=data.about%></p>
     </div>
     <div>
@@ -26,7 +27,7 @@
         </ul>
     </div>
     <div>
-      <h3>Fun facts:</h3>
+      <h2>Fun facts:</h2>
       <ul>
           <%Object.keys(data.funFacts).forEach(function(key){%>
               <li><%=data.funFacts[key]%></li>
@@ -37,6 +38,11 @@
 
     <div>
        <p> Here are some photos:</p>
+      
+      <figure>
+        <a href="<%=data.images.tractor.link%>"><img src="<%=data.images.tractor.link%>"></a> 
+        <figcaption><%=data.images.tractor.discription%></figcaption>
+      </figure>
       <figure>
         <a href="<%=data.images.rasPi.link%>"><img src="<%=data.images.rasPi.link%>"></a> 
         <figcaption><%=data.images.rasPi.discription%></figcaption>
@@ -47,13 +53,10 @@
         <figcaption><%=data.images.batman.discription%></figcaption>
       </figure>
 
-      <figure>
-        <a href="<%=data.images.tractor.link%>"><img src="<%=data.images.tractor.link%>"></a> 
-        <figcaption><%=data.images.tractor.discription%></figcaption>
-      </figure>
-
       
-       
+
+    </div>
+
     </div>
 </body>
 </html>
