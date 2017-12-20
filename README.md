@@ -13,7 +13,7 @@
 8. write your EJS files in your Views Folder.
 
 I want you to make an object on the backend that includes:
-1. a descript about you
+1. a description about you
 2. an array of your favorite foods (or drinks or whatever).
 3. a link to a image
 4. any other stuff about yourself that you want to share.
