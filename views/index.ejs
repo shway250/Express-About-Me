@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <meta charset="utf-8">
+      <title>About me</title>
+      <link href="/views/style.css" rel="stylesheet" type="text/css">
+   </head>
+   <body>
+      <h1>About Me: Adam Piette</h1>
+      <p>
+         <%= myinfo.description %>
+      </p>
+      <p>
+         <h2>Foods I Like</h2>
+         <ul>
+            <% for(var i=0; i<myinfo.foods.length; i++) { %>
+               <li>
+                  <%= myinfo.foods[i]; %>
+               </li>
+            <%}%>
+         </ul>
+      </p>
+      <p>
+         <h2>Glorious Mugshot</h2>
+         <img src="<%= myinfo.photo %>">
+      </p>
+   </body>
+</html>

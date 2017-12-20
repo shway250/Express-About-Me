@@ -1,0 +1,16 @@
+body{
+   text-align: center;
+   font-family: sans-serif;
+}
+
+p {
+
+   width: 45em;
+   margin: 5em auto;
+}
+
+ul {
+   text-align: left;
+   width: 25em;
+   margin: 0 auto;
+}
