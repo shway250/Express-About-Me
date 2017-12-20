@@ -1,4 +1,19 @@
-<img src=" <%= myInfo.imgSource %> " width="50%" height="50%">
-<h3> <%= myInfo.imgCaption %> </h3>
-<p> <%= myInfo.favoriteMovies %> </p>
-<p> <%= myInfo.description %> </p>
+<main>
+	<div class="section">
+		<img src=" <%= myInfo.imgSource %> ">
+		<p class="caption"> <%= myInfo.imgCaption %> </p>
+	</div>
+	<div class="section">
+		<div class="description">
+			<p> <%= myInfo.description %> </p>
+		</div>
+		<div class="description">
+			<h3>Favorite Foods</h3>
+			<ul>
+				<% for (var i=0; i< myInfo.favoriteFoods.length; i++){ %>
+					<li> <%= myInfo.favoriteFoods[i] %> </li>
+				<%}%>
+			</ul>
+		</div>
+	</div>
+</main>

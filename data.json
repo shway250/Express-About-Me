@@ -1,7 +1,12 @@
 {
-    "name": "Jacquelyn",
+    "name": "Jacquelyn Marcella",
+    "description": "Born and raised in Fort Worth, Texas, Jacquelyn escaped the south as soon as she could. Jacquelyn is a proud mom to over 50 houseplants (and counting). Her career journey has included being a toilet-paper-ordering intern to a digital resource lead for team of 150 people. Currently, she's in the Web Development Immersive program at General Assembly.",
     "imgSource": "https://i.imgur.com/CNsngQG.jpg",
-    "imgCaption": "A triangle of hair at the computer, early 1990s",
-    "favoriteMovies": "List here",
-    "description": "Desc to go here"
+    "imgCaption": "A triangle of hair at the computer, c. 1996",
+    "favoriteFoods": 
+    	[
+    		"Pho",
+    		"Spaghetti",
+    		"Anything noodley"
+    	]
 }
