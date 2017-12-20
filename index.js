@@ -29,5 +29,5 @@ app.get('/', function(req,res){
 });
 
 
-// Give our app a port to listen to
+// Create Port
 app.listen(3000);

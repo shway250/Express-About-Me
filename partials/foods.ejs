@@ -3,7 +3,7 @@
 <ul>
   <% myFoods.forEach(function(food) { %>
   <div id="wrapper">
-  <li><%= food.food %><img src = "/img/<%=food.img%>" class="hover"><p class="text"><%= food.description %></p></li>
+  <li><%= food.food %></li><div class = "images"><img src = "/img/<%=food.img%>" class="hover"><p class="text"><%= food.description %></p></div>
 </div>
   <% }); %>
 </ul>
