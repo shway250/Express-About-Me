@@ -1,0 +1,76 @@
+body{
+	font-size: 15px;
+	text-align: center;
+	object-fit: cover;
+	object-position;
+	background: url("https://assets.marthastewart.com/styles/wmax-1500/d27/chocolate-souffle-med107742/chocolate-souffle-med107742_horiz.jpg?itok=35Q8sQb3");
+	z-index: -1;
+}
+nav,footer{
+	color: black;
+	font-size: 25px;
+	padding: 10px;
+	background-color: lightgrey;
+}
+nav{
+	text-align: left;
+	border-bottom: 2px solid teal;
+}
+a{
+	text-decoration: none;
+	color: black;
+}
+img{
+	width: 400px;
+	height: 400px;
+	object-fit: cover;
+	object-position: left bottom;
+	overflow: hidden;
+}
+h1{
+	text-align: left;
+	margin-left: 150px;
+	color: teal;
+}
+h2{
+	color: teal;
+	font-size: 30px;
+}
+ul{
+	list-style: none;
+	color: purple;
+	font-size: 20px;
+	margin-top: 350px;
+	margin-left: 200px;
+}
+h3{
+	text-align: left;
+	margin-left: 150px;
+}
+p{
+	text-align: left;
+}
+footer{
+	text-align: right;
+	border-top: 2px solid teal;
+	margin-bottom: 0px;
+}
+.image{
+	float: left;
+}
+.home{
+	margin-left: 30px;
+}
+.main{
+	margin-top: 400px;
+}
+.about{
+	margin-left: 50px;
+}
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	content: " ";
+	clear: both;
+	height: 0;
+}
