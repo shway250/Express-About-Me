@@ -1,0 +1,22 @@
+{
+  "name": "express-about-me",
+  "version": "1.0.0",
+  "description": "## I want you to make an about me page using express and EJS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shway250/Express-About-Me.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shway250/Express-About-Me/issues"
+  },
+  "homepage": "https://github.com/shway250/Express-About-Me#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
