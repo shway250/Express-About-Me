@@ -35,9 +35,10 @@ hr {
 
 .caption {
 	position: relative;
-	bottom: 40px;
-	left: 20px;
-	background: white;
+	bottom: 50px;
+	left: 15%;
+	background: black;
+	color: white;
 	width: 75%;
 	padding: 10px;
 }
