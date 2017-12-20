@@ -1,0 +1,51 @@
+body {
+  background: white;
+  margin: 0 auto;
+}
+
+h1 {
+  width: 50%;
+  position: absolute;
+  top: 35%;
+  text-align: center;
+  margin: 0 25%;
+}
+
+header {
+  background: rgba(20, 100, 250, 1);
+  width: 97%;
+  height: 40%;
+  position: fixed;
+  z-index: -1;
+  top: 0;
+  margin: 2.5% 1.5% 0 1.5%;
+}
+
+.profile-pic {
+  border: 3px solid black;
+  height: 200px;
+  width: 200px;
+  position: absolute;
+  top: 10%;
+  left: 15%;
+
+}
+
+.information {
+  position: absolute;
+  top: 50%;
+  left: 15%;
+  width: 300px;
+
+}
+
+.chef-hat {
+  height: 200px;
+  width: 300px;
+  float: right;
+  margin: 3% 0 0 0;
+}
+
+.posts {
+  
+}

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Welcome, Justin</title>
+  <link rel="stylesheet" href="./css/style.css">
+</head>
+<body>
+  <header><img class="chef-hat" src="./img/check-hat.png"></header>
+  <% myUsers.forEach(function(user) { %>
+    <img class="profile-pic" src=<%= user.image %>>
+    <h1><%= user.name %></h1>
+    <div class="information">
+      <h2>Information</h2>
+      <p><strong>Description:</strong> <%= user.description %></p>
+      <p><strong>Interests:</strong> <%= user.interests %></p>
+      <p><strong>Favorite Foods:</strong> <%= user.foods %></p>
+  <% }); %>
+    </div>
+    <div class="posts">
+      <h2>Your Posts</h2>
+    </div>
+</body>
+</html>
+
+
