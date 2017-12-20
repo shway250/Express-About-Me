@@ -1,0 +1,9 @@
+{
+  "name": "Nick",
+  "foods": ["food", "food"],
+  "img": {
+    "img1": "link1",
+    "img2": "link2"
+  }
+
+}
