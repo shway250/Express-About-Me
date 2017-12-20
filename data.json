@@ -1,0 +1,9 @@
+[
+  {
+    "name":"Justin Mitchell",
+    "description":"Eight years of home cooking and champion of the Mitchell Chef Challenge.",
+    "foods":["peanut butter and jelly sandwich", "oreos", "ice cream", "seaweed", "peaches", "butternut squash"],
+    "image": "./img/image1.jpg",
+    "interests": ["turning code into food", "wrestling tofu", "eating stuff"]
+  } 
+]
