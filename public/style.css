@@ -2,12 +2,26 @@
 body{
 	text-align: center;
 	background-color: beige;
+	display: inline-block;
 }
 h1{
 	color:blue;
 }
-
-img{
-	height: 50px; 
-	width: 100px;
+.container {
+    width: 200px;
+    height: 120px;
+    margin: 50px;
+    display: inline-block;
+}
+.container img {
+    width: 100%;
+    height: auto;
+    /*display: inline-block;*/
+}
+ul{
+	text-align: center;
+	/*display:inline-block;*/
+	width: 200px;
+	height: 500px;
+	/*margin:10px;*/
 }
