@@ -9,7 +9,7 @@ app.set('view engine', 'ejs');
 // app.get('/', function(req,res){
 //   var info = fs.readFileSync('data.json');
 //   info = JSON.
-// })
+// });
 app.get('/',function(req,res){
   res.render('index', {name: "Tony Phan",
   food:["pho"," sushi", " ramen" ]
