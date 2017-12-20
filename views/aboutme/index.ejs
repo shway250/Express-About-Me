@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<link rel="stylesheet" type="text/css" href="style.css">
+<head>
+  <title>Welcome to AshWorld</title>
+</head>
+<body>
+  <img src="<%= info.scubaImg %>">
+  <h1><%= info.header %></h1>
+  <h3><%= info.intro %></h3>
+  <ul>
+    <% for(var i = 0; i < info.tidbits.length; i++){ %>
+      <li><%= info.tidbits[i] %></li>
+    <% } %>
+</body>
+</html>
