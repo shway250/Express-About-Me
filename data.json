@@ -1,0 +1,23 @@
+[
+  {
+    "food":"Avocados",
+    "description":"Because duh",
+    "img":"avocado3.png"
+  },
+  {
+    "food":"Carrots",
+    "description":"Because I am part bunny",
+    "img":"carrot2.png"
+  },
+  {
+    "food":"Chocolate",
+    "description":"Does that even count as a food?",
+    "img":"chocolate.png"
+  },  
+  {
+    "food":"Anything Green",
+    "description":"See the pattern - I am a vegetarian.",
+    "img":"kale.png"
+  }
+
+]
