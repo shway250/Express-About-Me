@@ -1,0 +1,9 @@
+<ul>
+  <% mydishes.forEach(function(dishes) { %>
+  	<ol><%= dishes.dish %>
+  		<div class='container'>
+  			<img src="<%=dishes.url%>">
+  		</div>
+  </ol>
+  <%});%>
+</ul>
