@@ -1,0 +1,15 @@
+<!-- <form method="POST" action="/aboutme">
+  <label for="aboutmeSubject">Topic</label>
+  <input type="text" name="topic">
+
+  <label for="aboutmeAnswer">Info</label>
+  <input id="aboutmeAnswer" type="text" name="Info">
+
+  <input id="aboutmeSubject" type="submit">
+</form> -->
+
+<ul>
+  <% myAboutme.forEach(function(aboutme) { %>
+  <li><%= aboutme.subject %> : <%= aboutme.answer %></li>
+  <% }); %>
+</ul>
