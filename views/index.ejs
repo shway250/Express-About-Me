@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>About Me Deliverable</title>
+</head>
+<body>
+	<br>
+	<h1><%= name %>'s About Me</h1>
+	<br>
+	<br>
+	<ul>What I'm about
+		<li>Dogs that know life is good</li>
+		<li>Birds that hang out for the winter</li>
+		<li>Cats who like pets</li>
+		<li>Music that makes me feel like that dog bird or cat</li>
+	</ul>
+	<img src=<%=img%> />
+	<ul><h1>My favorite foods are</h1>
+		<% for(var i=0; i<foods.length; i++){%>
+		<li><h3><%=foods[i]%></h3></li>
+		<%}%>
+	</ul>
+
+</body>
+</html>

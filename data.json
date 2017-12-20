@@ -1,0 +1,22 @@
+[
+  {
+    "name":"Peter Barbarone",
+    "thePoint":"This is about Me"
+  },
+  {
+    "favFoods":[" "],
+    "type":"dog"
+  },
+  {
+    "name":"Mufasa",
+    "type":"lion"
+  },
+  {
+    "name":"Tony",
+    "type":"tiger"
+  },
+  {
+    "name":"Kuma",
+    "type":"bear"
+  }
+]
