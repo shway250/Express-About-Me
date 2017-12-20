@@ -1,0 +1,26 @@
+[
+  {
+    "beer":"Lagunitas",
+    "type":"IPA"
+  },
+  {
+    "beer":"Sierra Nevada",
+    "type":"Pale Ale"
+  },
+  {
+    "beer":"PBR",
+    "type":"Lager"
+  },
+  {
+    "beer":"Newcastle",
+    "type":"Brown Ale"
+  },
+  {
+    "beer":"Guiness",
+    "type":"Dry Stout"
+  },
+  {
+    "beer":"Yuengling",
+    "type":"Lager"
+  }
+]
