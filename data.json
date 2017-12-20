@@ -1,0 +1,32 @@
+{
+  "name": "Nick",
+  "about": "I was born at a very your age in a place far, far away. I got to Seattle right after high school and hilarity ensued.",
+  "foods": ["food", "food"],
+  "drinks": ["bourbon", "scotch whisky", "beer"],
+  "images":
+  {
+    "rasPi":
+    {
+      "link": "https://lh3.googleusercontent.com/_IxoCv5GkMT4fDbHHmgd0PVQtww4Qct23DGubhrrRI8zcbtsTk2S984GPN-i0co10bjAJm9P3uweKMlu-GgLkwyWKQrINM4H-g81pbGoKCWz7Pp4auD-1PKhtQnHqlXEJyuNYmZ0POK1OBCJZExB1LGyEGw8MjI8HS_Mp0RPcBTYdX2Ny5fyQjbpXQewYra5hvMX5X7kljVKxYAMf7ZFJEWeb-8Iqe5YdW0gsUYqOFY1hIaGSJtsYYpNZgl1Y4p1RaaUteZSAez9KRY9_pgKqtJdx8nmeKxhmXkrzhr4ssp71gAxMZizRPuYWefaFhBLtpgPqEDNy570ofbUrxcPNd4rcGgGgDhnPxDwOE3N7PwRWPh-mjmwHHoboWlx_l-pZd43M29T6uuj0Jw5xzkTl9K1i8KP27uhpG8iQTfmig3WouW5rivycWew4_NX-VApDf32rwxz3tLmQiyRAZ97-0sXiyVBXeyRg4ETqSjgddVgyYvHBLGDygu9GKj69Z_TZCGMKWQl98nIc103FQ7A1HXZ3Z5oVMbsg7cZMbJCYuTFAs0MWcCmGqStOT3aAzuIYKxmkEm4BEMj0PsbiQfyoUeYxOP7Z35rCr-qe7PvPI-X1o7IRjn2gcDPRPQyFTlDUNkx7C9QDGt3XglM7F2krM1ldYbwBsmc=s871-no",
+      "discription": "RasPi with a custom heatsink."
+    },
+    "tractor":
+    {
+      "link": "https://lh3.googleusercontent.com/fcrieM9m6SOibmIok5lWyN082G8ggAkLl1oJV_IOTMAD9V_YiKXD-9gvhy2dxfejA5LgJbEAI4-Yv2kL7n1OxTKLQ5dHwCY3vwRh9BRBi1AiT6KHHKFRG79QNevNoUUDWkKFRFHEsN3ynwZum9vGCULHqo85gRBiSO8ULiRJegwsLqzhV4KPufVstLZWUyQXNA_dNI2SDC54EWIbSiCArlk5jGhbLe5LwBZDOhZMtEddveAyzXzfE_aMmZFyXHFUjQIrRQyfg8n-KeAquPFkyyUTdolETSPQLbCS8TiWpDBlYS2axT8y03868nDSexA0E2h-40ylPoyO_kzBMArNlb_0688ngBKJ7yMazIw8sK-slDQsygT573YYqtQbTeMwCqT1UOXgNKbnkHQo0o4hDNLt7bU3xJF4wOCJja6Hz_DPYPdpAcJdH1AnFccp0NnoiQgC2Mgoy8dfwdr1_9YKkkaraIod0WMb6nxlAmFUMVcztnIN5QwAbPu3OFhY6JDtyHJt1Tq5qJrlMaLpDqb4MRr35PRO7wl9bQQTPk2Gl_bGbONnLDwG1BKfwqPOGC21bFleyLxwlQSuC4xf4_HayOe-J0Tz0ga5Z2BOs9AFQh62x44E2dD0UBt-EXzBj0Cq43PloA3I6Z351xo4tjjxIb5C86Cfxx_D=w1162-h871-no",
+      "discription": "The tractor."
+    },
+    "batman":
+    {
+      "link": "https://lh3.googleusercontent.com/UbI8sqt4kSPRwHv0OstSMOowJJeKnjmcudskG3H-qFzPjipQIlo2onkuXXZ1oc2WBIjvgtaSzkCacKWPcKMvpajh55fMvO-H-mfMIBUdNNYJGwy8ZSuhnqALmx6XOCUXwkhc7pbGlPsFborPGwFgRLaWMoK6GHfQg2A1pUwwlzlfuJKEKdogWgbDrswNnIbwVaB6ueCkM5VmfSJXrz15jgmriwX1z0bcY9W9ElKHC86ha2QrM9XZSsr-YJA1ywdKGgRcEEjN4nvoC4IbgkcO4BzQIzmuh78MTwJcEcDaolMoA6ReY2khVEUs_7xoVFXDQn2pVNr3rfShDLxw3QtFaNF-5fxkT-6hIEo2WICWY3AgOxuol4gaw_O7YanRYDiDlLiOslTcK4fdY8t0o2G0PLqbfWVhu3PBpSyMwrqU1Q-VrXpRd4pB26MTOvcPjQNQ3Nct8fG_z4iFJE_YqjCtNfov4MEL3hcDSinr6L_pFvaL3yZ1F3EuwkJZW-EPZo_xWaAL-Qu0EGENF29RRQHWEdfqlblOAxehdjCfuDwBPqdnCK-TQMOxZSdGse0psrryaeNeYyMUqd8M0m3c90_Dkv7cEeX7Va4e3PzbLPPAVsKYYDrbT3ESrOcz3ZZKbeRG-bTdJR16JaxWSTPdDvZUZgNc1dSrTJoA=w491-h871-no",
+      "discription": "Bat-nipples!"
+    }
+  },
+  "funFacts":
+  {
+    "factOne": "I drive a car which no mechanic in Seattle wants to touch with a 10 foot pole. ",
+    "factTwo": "I have a LAMP(PHP) stack Rasbery Pi Web Server which is constantly under attack by Chineese bots.",
+    "factThree": "I know where the actual bat-nipple suit is."
+
+  }
+
+}
