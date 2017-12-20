@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" type="text/css" href="/css/style.css">
+    <meta charset="utf-8">
+    <title>wWhooos that laddyyyyy</title>
+  </head>
+  <body>
+    <h1>Welcome To My Life </h1>
+    <h2>My name is <%= name %> </h2>
+    <%= about %>
+    <h3>These are a few of my favorite things</h3>
+    <% for(var i = 0; i < interests.length; i++){%>
+    <li> <%=interests[i]%></li>
+    <%}%>
+    <img src="<%=image%>"/>
+
+  </body>
+</html>
