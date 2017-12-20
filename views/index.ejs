@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>About Swan</title>
+	<link rel="stylesheet" type="text/css" href="../css/style.css">
+</head>
+<body>
+<div class="header">
+<h1>Hello, world.</h1>
+<h2>My name is Sean Swanson.</h2>
+<a href="/"><button>Home</button></a>
+</div>
+
+<hr>
+<div id="info">
+<h3> Here is some info! </h3>
+  <p> <%= aboutMe.about %> </p>
+</div>
+<div id="fave-food">
+  <h3>My favorite foods!</h3>
+  <ul>
+  <% for(var i = 0; i <= aboutMe.favFoods.length-1; i++) { %>
+	<li> <%= aboutMe.favFoods[i] %> </li>
+	<%}; %>
+</ul>
+</div>
+<div id="img">
+	<h3>How cute is this Quokka??</h3>
+    <p><img src= <%= aboutMe.img %>> </p>
+</div>
+<div id="stuff">
+    <h3>And some more stuff!</h3>
+    <p> <%= aboutMe.stuff %> </p>
+</div>
+</body>
+</html>
