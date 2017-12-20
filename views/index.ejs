@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>About Me</title>
+	<link rel="stylesheet" type="text/css" href="/css/style.css"></link>
+</head>
+<body>
+	<h1> About <%= name %></h1>
+	<p> I'm currently a <%= job %> at <%= school %></p>
+
+	<ul>My favorite foods are </ul>
+	<% for(var i=0; i<foods.length; i++){ %>
+	<li><%=foods[i]%></li>
+<%}%>
+
+	<ul>I've lived in a few different places, including</ul>
+	<% for(var j=0; j<places.length; j++){ %>
+	<li><%=places[j]%></li>
+<%}%>
+
+	<h2>I've stayed in <%=places[7]%> becuase...</h2>
+	<img src=<%=image%>/>
+
+</body>
+</html>
