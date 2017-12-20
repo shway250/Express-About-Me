@@ -1,0 +1,30 @@
+var express = require('express');
+var app = express();
+
+app.set('view engine', 'ejs');
+
+app.get('/', function(req, res){
+  res.render('pages/index');
+});
+
+app.get('/about', function(req, res){
+  res.render('pages/about');
+
+});
+
+app.listen(3000);
+console.log('3000 is the port');
+
+app.get('/', function(req, res) {
+    var movies = [
+        { name: 'Beetlejuice', year: 1988 },
+        { name: 'Friday', year: 1995 },
+        { name: 'Friday the 13th', year: 1980 }
+    ];
+    var tagline = "Its Showtime.";
+
+    res.render('pages/index', {
+        Movies: Movies,
+        tagline: tagline
+    });
+});
