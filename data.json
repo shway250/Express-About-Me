@@ -1,22 +1,18 @@
 [
   {
     "dish":"Ramen",
-    "url":""
+    "url":"https://www.chowstatic.com/assets/2014/11/31178_slow_cooker_pork_ramen_3000.jpg"
   },
   {
     "dish":"Red Curry",
-    "url":""
+    "url":"https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe/recipe-image/2017/05/thai-red-curry.jpg?itok=Cc9zNgES"
   },
   {
     "dish":"Double Cheeseburger",
-    "url":""
+    "url":"https://i.ytimg.com/vi/C5Hq4mjMJQM/maxresdefault.jpg"
   },
   {
     "dish":"Triple Cheeseburger",
-    "url":""
-  },
-  {
-    "dish":"Jumbo Shrimp",
-    "url":""
+    "url":"http://aht.seriouseats.com/images/2011/08/20110816-164966-redamaks-triple.jpg"
   }
 ]

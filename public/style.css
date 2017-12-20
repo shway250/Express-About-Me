@@ -1,0 +1,13 @@
+/*this is my css*/
+body{
+	text-align: center;
+	background-color: beige;
+}
+h1{
+	color:blue;
+}
+
+img{
+	height: 50px; 
+	width: 100px;
+}

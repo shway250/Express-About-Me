@@ -1,17 +1,15 @@
 <!DOCTYPE html>
 <html>
 <head>
+	<link rel="stylesheet" type="text/css" href="style.css">
 	<title>ABOUT ME</title>
 </head>
 <body>
 <h1>Who is <%= name%>?</h1>
 <h2></h2>
 <h2>These are dishes I like</h2>
-    <ul>
-    <% for (var i=0; i < dish.length; i++){ %>
-	<p><%= dish[i]%></p>
-<%}%>
-    </ul>
+<% include ../partials/dishes.ejs%>
+
 
 
 
