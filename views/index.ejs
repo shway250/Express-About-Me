@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" href="/public/style.css">
+	<title>Lemons</title>
+</head>
+<body>
+	
+	<h1>When Life Makes You a Lemon</h1>
+	<h2>My name is <%= name %> </h2>
+	<h3>My diet is fairly restricted because I am a citrus. Things I have to avoid eating are:</h3>
+		<!-- <% var arr = ["Cilantro", "Pork", "Non-Organic Dairy",, "Gluten"] %> -->
+	<div>
+		<% for(var i = 0; i < foods.length; i++){ %>
+			<span><%=foods[i]%></span>
+		<%}%>
+	<h3>As a fruit surrounded my various other fruits; all from different trees, I have learned how to communicate via several syntaxes:</h3>
+		<% for(var i = 0; i < languages.length; i++){ %>
+			<span><%=languages[i]%></span>
+		<%}%>
+	</div>
+	<br>
+	<h3>I have seen many parts of this large orchard:</h3>
+		<% for(var i = 0; i < places.length; i++){ %>
+			<span><%=places[i]%></span>
+		<%}%>
+		
+	<% include ../partials/photos.ejs %>
+
+</body>
+</html>
