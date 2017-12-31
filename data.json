@@ -1,0 +1,16 @@
+{
+	"name": "Winston",
+	"description": "5 foot 7 inches, approxamately 160 pounds. Brown hair, cut in a rebellious yet conservative way. Many would say a annoying or naive disposition, what can I say; I like to smile.",
+	"favorites": {
+		"food":["Pizza rolls", "Mexican food", "Whatever is right in front of me"],
+		"drink": ["Vodka neat", "Milk", "Mixed cranberry juice"],
+		"heros": ["John Adams", "Donald Summers Jr", "Benjamin Franklin"]
+	},
+	"images":{
+		"car":{
+			"link": "https://goo.gl/images/mHXYDU",
+			"description": "The 69' Shelby Mustang"
+		}
+	},
+	"else": "A realist is a complement a pessimist gives to himself."
+}
