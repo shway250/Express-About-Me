@@ -1,0 +1,9 @@
+[
+  {
+    "name":"Peter Li",
+    "description":"A Seattle transplant that grew up to be a developer-wannabe",
+    "foods":["Sandwitches", "Hamburgers", "Pizza", "Crackers", "Bahmi", "Sushi"],
+    "image": "./img/image1.jpg",
+    "interests": ["hanging out with my family", "Doing Google flight searches to do my dream vacation in my head", "eating stuff"]
+  } 
+]
