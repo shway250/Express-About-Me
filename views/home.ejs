@@ -1,3 +1,15 @@
 <p>Here is it, Peter's home page, all the information about me is here!</p>
 
-<a href="/Peter">I am here, check out more stuff about me</a>
+
+
+<p><%= object.description%></p>
+<p>My favorite foods are <%= object.foods.join(",")%>.</p>
+<p>My interests are:</p>
+<ul>
+	<li><%= object.interests[0]%></li>
+	<li><%= object.interests[1]%></li>
+	<li><%= object.interests[2]%></li>
+	<li><%= object.interests[3]%></li>
+	<li><%= object.interests[4]%></li>
+
+</ul>
